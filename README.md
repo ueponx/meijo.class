@@ -16,11 +16,6 @@ https://ueponx.github.io/meijo.class/aichi_schools.csv
 愛知県の病院データ（CSV形式）
 https://ueponx.github.io/meijo.class/aichi_hospitals.csv
 
-## 歯科医院の位置情報
-
-愛知県の歯科医院データ（CSV形式）
-https://ueponx.github.io/meijo.class/aichi%E2%80%97dentalclinics.csv
-
 ## コンビニの位置情報
 
 東京都のコンビニデータ（CSV形式）
@@ -29,4 +24,4 @@ https://ueponx.github.io/meijo.class/tokyo_conveni.csv
 ## 全国のマクドナルド店舗の位置情報
 
 全国のマクドナルド店舗の位置（CSV形式）
-https://ueponx.github.io/meijo.class/mcdonald.csv
+https://ueponx.github.io/meijo.class/mcdonald.json
