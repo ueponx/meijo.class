@@ -3,7 +3,7 @@
 
 ## バス停留所の位置情報
 
-長久手町が公開するバス停留所のデータ（CSV形式）
+日進市が公開するバス停留所のデータ（CSV形式）
 https://ueponx.github.io/meijo.class/stops.csv
 
 ## 学校の位置情報
