@@ -23,5 +23,5 @@ https://ueponx.github.io/meijo.class/tokyo_conveni.csv
 
 ## 全国のマクドナルド店舗の位置情報
 
-全国のマクドナルド店舗の位置（CSV形式）
+全国のマクドナルド店舗の位置（JSON形式）
 https://ueponx.github.io/meijo.class/mcdonald.json
