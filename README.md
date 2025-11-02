@@ -25,3 +25,10 @@ https://ueponx.github.io/meijo.class/tokyo_conveni.csv
 
 全国のマクドナルド店舗の位置（JSON形式）
 https://ueponx.github.io/meijo.class/mcdonald.json
+
+## ダッシュボード用のCSVデータ
+
+時刻、温度、湿度の格納されたデータ（csv形式）
+https://ueponx.github.io/meijo.class/temperature_data.csv
+
+
